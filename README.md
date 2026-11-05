@@ -5,3 +5,6 @@ Pull issues into your vault.
 Commands: *Sync GitHub issues*, *Sync Linear issues (Pro)*, *Create one note per GitHub/Linear issue (Pro)*. Set repo / keys in Settings > Issue Sync.
 Data goes only to api.github.com / api.linear.app, with your own keys. Known limit: Linear sync is not tested against the live API yet.
 MIT-style source for the free part; Pro unlock is a license check.
+
+
+Pro license (29 USD one-time, key shown instantly after payment) and full details with Impressum: https://telegra.ph/Issue-Sync-for-Obsidian-GitHub-and-Linear-issues-in-your-vault-11-05
